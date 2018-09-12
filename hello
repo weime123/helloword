@@ -4,5 +4,6 @@ printf("helloword");
 int a,b;
 a=0;
 b=a+1;
+b=a*a+2;
 return 0;
 }
